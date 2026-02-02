@@ -1,6 +1,6 @@
 # lib3mf_julia
 
-Julia bindings for lib3mf using a prebuilt shared library.
+Julia bindings for lib3mf (From an experimental ACT recipe)
 
 ## Usage
 
